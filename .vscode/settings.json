@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6011d58e-efbe-434a-9f6f-3798dcea5a9c/resourceGroups/EJW/providers/Microsoft.Web/sites/Ethan",
+    "appService.deploySubpath": "."
+}
